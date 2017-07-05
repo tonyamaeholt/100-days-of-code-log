@@ -1,6 +1,6 @@
 Tonya's # 100 Days of Code - Log
 
-### Day 0: July 5, 2017
+### Day 1: July 5, 2017
 
 **Today's Progress**: Forked 100 Days of Code Repo, organized current weather app project files using Dropbox, Atom, and Git. Created a GitHub repo for current weather app project and set up a GitHub page for hosting my project.
 
