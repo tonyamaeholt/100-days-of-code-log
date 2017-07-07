@@ -1,4 +1,14 @@
 Tonya's # 100 Days of Code - Log
+### Day 2: July 6, 2017
+
+**Today's Progress** Used CSS to build and style a toggle switch. Wrote HTML for 3 divs.
+
+
+**Thoughts:** Felt pretty frustrated that I struggled so badly with the HTML/CSS. It made me realize I need a lot more practice with it, perhaps some static webpages would be a good refresher. I will need help with the JS piece for sure. It was really fun to play around with the toggle switch though, I liked making little changes and seeing the effects (pace of translation and color morph etc)  
+
+**Link to work:**
+[https://tonyamaeholt.github.io/current-weather-app/](https://tonyamaeholt.github.io/current-weather-app/)
+
 
 ### Day 1: July 5, 2017
 
@@ -6,4 +16,4 @@ Tonya's # 100 Days of Code - Log
 
 **Thoughts:** The process of getting everything set up took way longer than it should and there was very little time spent on actual coding. When I did code, I felt rusty and inept. The good news is that even though it was frustrating, time flew by. I love it when I'm so engrossed in something that I don't even realize an hour has passed.   
 
-**Link to work:** https://tonyamaeholt.github.io/current-weather-app/
+**Link to work:** [https://tonyamaeholt.github.io/current-weather-app/](https://tonyamaeholt.github.io/current-weather-app/)
