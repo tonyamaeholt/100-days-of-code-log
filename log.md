@@ -1,4 +1,14 @@
 Tonya's # 100 Days of Code - Log
+### Day 3 July 7, 2017
+
+**Today's Progress** Decided to dial it back a notch and begin a static webpage to brush up on my HTML/CSS.
+
+**Thoughts** What I was coding is really basic but I had to use some cheatsheets and I want to get to the point where I can do this (and more) from memory.
+
+**Link to Work**:
+[https://tonyamaeholt.github.io/static-webpage-project/](https://tonyamaeholt.github.io/static-webpage-project/)
+
+
 ### Day 2: July 6, 2017
 
 **Today's Progress** Used CSS to build and style a toggle switch. Wrote HTML for 3 divs.
