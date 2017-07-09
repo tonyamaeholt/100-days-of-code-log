@@ -1,4 +1,13 @@
 Tonya's # 100 Days of Code - Log
+### Day 4 July 8, 2017
+
+**Today's Progress** Started a CSS image project because it looks neat. I'm using a tutorial because my skills are still not advanced enough (yet!) to do too much from scratch.
+
+**Thoughts** My hour flew by, looking forward to playing around more tomorrow!
+
+**Link to Work**
+[https://tonyamaeholt.github.io/koala-image-project/](https://tonyamaeholt.github.io/koala-image-project/)
+
 ### Day 3 July 7, 2017
 
 **Today's Progress** Decided to dial it back a notch and begin a static webpage to brush up on my HTML/CSS.
