@@ -1,4 +1,14 @@
 Tonya's # 100 Days of Code - Log
+### Day 5 July 9, 2017
+
+**Today's Progress** I finished the tutorial project.
+
+**Thoughts** The tutorial was very helpful and the project was fun. I gained some confidence and got inspired to try an image of my own.
+
+**Link to Work**
+[https://tonyamaeholt.github.io/koala-image-project/](https://tonyamaeholt.github.io/koala-image-project/)
+
+
 ### Day 4 July 8, 2017
 
 **Today's Progress** Started a CSS image project because it looks neat. I'm using a tutorial because my skills are still not advanced enough (yet!) to do too much from scratch.
@@ -7,6 +17,7 @@ Tonya's # 100 Days of Code - Log
 
 **Link to Work**
 [https://tonyamaeholt.github.io/koala-image-project/](https://tonyamaeholt.github.io/koala-image-project/)
+
 
 ### Day 3 July 7, 2017
 
