@@ -1,7 +1,16 @@
 Tonya's # 100 Days of Code - Log
+### Day 6 July 10, 2017
+
+**Today's Progress** I finished the coffee cup project, an idea I came up with that was inspired by the koala image project from Days 4 & 5.
+
+**Thoughts** I had fun figuring out how to make my idea work and experimenting with different CSS properties to modify the way the end product looked.  
+
+**Link to Work**
+[https://tonyamaeholt.github.io/coffee-cup-project/](https://tonyamaeholt.github.io/coffee-cup-project/)
+
 ### Day 5 July 9, 2017
 
-**Today's Progress** I finished the tutorial project.
+**Today's Progress** I finished the koala image tutorial project.
 
 **Thoughts** The tutorial was very helpful and the project was fun. I gained some confidence and got inspired to try an image of my own.
 
