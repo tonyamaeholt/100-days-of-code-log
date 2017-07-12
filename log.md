@@ -1,5 +1,13 @@
 Tonya's # 100 Days of Code - Log
-### Day 6 July 10, 2017
+### Day 7 July 11, 2017
+
+**Today's Progress** I started learning about PHP and wanted to try to implement it as I learned. Today I set up a subdomain and wrote a php file that will display the current date automatically.
+
+**Thoughts** I'm reading a PHP book and doing this project to better understand WordPress.
+
+**Link to Work**
+[https://tonyamaeholt.github.io/phpfun/](https://tonyamaeholt.github.io/phpfun/)
+
 
 **Today's Progress** I finished the coffee cup project, an idea I came up with that was inspired by the koala image project from Days 4 & 5.
 
