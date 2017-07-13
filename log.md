@@ -1,4 +1,13 @@
 Tonya's # 100 Days of Code - Log
+### Day 8 July 12, 2017
+
+**Today's Progress** I set up a local environment for my PHP project using MAMP. I did more reading of "The Joy of PHP" by Alan Forbes and executed a countdown timer using PHP commands as described in the book.
+
+**Thoughts** I would like to look for another CSS art project (perhaps a CSS animation) to work on along side my PHP lessons. I liked being creative and trying to figure out how to make an image look the way I envisioned.
+
+**Link to Work**
+[https://tonyamaeholt.github.io/phpfun/](https://tonyamaeholt.github.io/phpfun/)
+
 ### Day 7 July 11, 2017
 
 **Today's Progress** I started learning about PHP and wanted to try to implement it as I learned. Today I set up a subdomain and wrote a php file that will display the current date automatically.
