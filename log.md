@@ -1,4 +1,13 @@
 Tonya's # 100 Days of Code - Log
+### Day 9 July 13, 2017
+
+**Today's Progress** I set up a static webpage to play with CSS animation. I learned about the transform property.
+
+**Thoughts** Feeling low on brain energy today. Didn't spend the full hour but got something set up even though I felt like doing nothing. Frustrated that my computer got hot and bogged down at one point. No red flags on my activity monitor. Seemed fine after a restart.
+
+**Link to Work**
+[https://tonyamaeholt.github.io/box-animation/](https://tonyamaeholt.github.io/box-animation/)
+
 ### Day 8 July 12, 2017
 
 **Today's Progress** I set up a local environment for my PHP project using MAMP. I did more reading of "The Joy of PHP" by Alan Forbes and executed a countdown timer using PHP commands as described in the book.
