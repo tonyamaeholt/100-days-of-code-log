@@ -1,4 +1,15 @@
 Tonya's # 100 Days of Code - Log
+#### Day 10 July 15, 2017
+
+**Today's Progress** First, I finished the box animation project using transform I intended to finish yesterday. I used a tutorial and then spent a lot of time playing around with the CSS to see what else I could make it do which was fun. Then I did a star animation project using many of the animation properties to affect the background color.  
+
+**Thoughts** Yesterday life happened and I didn't code. I was disappointed in myself but doubled down today. I realized when you have a commitment you have to accommodate for it or else it just won't happen.
+
+**Link to Work**
+[https://tonyamaeholt.github.io/box-animation/](https://tonyamaeholt.github.io/box-animation/)
+[https://tonyamaeholt.github.io/star-animation/](https://tonyamaeholt.github.io/star-animation/)
+
+
 ### Day 9 July 13, 2017
 
 **Today's Progress** I set up a static webpage to play with CSS animation. I learned about the transform property.
