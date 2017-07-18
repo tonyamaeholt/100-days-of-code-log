@@ -1,4 +1,10 @@
 Tonya's # 100 Days of Code - Log
+#### Day 11 July 17, 2017
+
+**Today's Progress** Learning more about PHP and reading "The Joy of PHP". I used phpMyAdmin to create my first database and started building a table.
+
+**Thoughts** I missed a day of coding yesterday because life happened. I've decided when this happens to just continue the following day but not count the day I missed as one of the 100 days. To elucidate, it could take me 105 days to finish 100 days of code. I don't have any work I did today that I can provide a link to yet. Hopefully I will soon but I'm not really sure what to expect since PHP is so new to me. 
+
 #### Day 10 July 15, 2017
 
 **Today's Progress** First, I finished the box animation project using transform I intended to finish yesterday. I used a tutorial and then spent a lot of time playing around with the CSS to see what else I could make it do which was fun. Then I did a star animation project using many of the animation properties to affect the background color.  
